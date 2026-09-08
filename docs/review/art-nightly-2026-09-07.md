@@ -69,3 +69,5 @@ pair was intentionally left unchanged.
 ## Main publication scope
 
 Frozen remote main was `72fec0b4831dc2a287ecc48c148f93c8e99b1018`. All seven daily candidates are outside that main history. This main commit contains only the review report. The local repair remains on `art/nightly-2026-09-07-drawn-local`; its test commit is `38dff87e3faaf73c9045ef391ea6708855206072` and its fix is `8266ac421c96b5b7e3fe722b26bbdf6b7a671cb7`. Parent reviewed the complete fix and schema, saved-preference, selector and launch call sites. The first nightly review does not claim coverage of older history before the requested day.
+
+Portable [verification excerpts and original-log digests](art-nightly-2026-09-07-evidence.md) accompany this report.
